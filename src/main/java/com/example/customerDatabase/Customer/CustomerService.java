@@ -30,6 +30,7 @@ public class CustomerService {
         if (customerOptional.isPresent()){
             throw new IllegalStateException("email has already been registered");
         }
+        System.out.println(customer);
         customerRepository.save(customer);
     }
 }
