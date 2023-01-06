@@ -1,6 +1,5 @@
-# customerDatabase
-This is an API that I built using the Spring Boot and wrote it in Java. The goal of this project was to help me learn more about API's and to see how a
-company may want to organize customer data.
+# Customer Database RESTful API
+This is an API that I built using the Spring Boot and wrote it in Java. Spring Boot is a technology that helps developers to create applications that can run without a webserver. The goal of this project was to help me learn more about API's, the REST architecture, and to see how a company may want to organize customer data.
 
 
 # Testing endpoints in Postman
