@@ -9,8 +9,9 @@ import java.time.Month;
 import java.util.List;
 
 @Configuration
-public class StudentConfig {
+public class CustomerConfig {
 
+    //This is basically like the default database
     @Bean
     CommandLineRunner commandLineRunner(CustomerRepository repository){
         return args -> {
