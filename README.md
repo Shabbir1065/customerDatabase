@@ -1,7 +1,7 @@
 # Customer Database RESTful API
 This is an API that I built using the Spring Boot and wrote it in Java. Spring Boot is a technology that helps developers to create applications that can run without a webserver. The goal of this project was to help me learn more about API's, the REST architecture, how to use a PostgreSQL database, and to see how a company may want to organize customer data.
 
-<img width="13" alt="image" src="https://user-images.githubusercontent.com/46404712/211120847-ebb9b6b1-9605-4d41-bc3d-03c8ac19b10a.png">
+<img width="1440" alt="Screen Shot 2023-01-06 at 7 14 25 PM" src="https://user-images.githubusercontent.com/46404712/211120875-cea3fe68-6363-4541-ad89-694eb67d67a6.png">
 
 
 # Testing endpoints in Postman
